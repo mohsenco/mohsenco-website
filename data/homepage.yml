@@ -63,7 +63,7 @@ about:
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
-    URL: "https://www.linkedin.com/company/radity/"
+    URL: "https://linkedin.com/in/mohsenmottaghi"
   image:
     # x: "img/who-am-i/user-picture.png"
     x: "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/e35/38923024_2167917553483301_1364094682795081728_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=105&_nc_ohc=7lIwtIwXZ5sAX_7f3zA&oh=0eb4a78a264732eba8746c2ae7eeff90&oe=5EC28C99"
@@ -72,12 +72,12 @@ about:
 
 # education
 education:
-  enable: false
-#   title: "Education"
-#   items:
-#     - university: "University of Waterloo"
-#       year: "2012-2017"
-#       degree: "Bachelor of Applied Science (BASc), Electrical Engineering"
+  enable: true
+  title: "Education"
+  items:
+    - university: "K. N. Toosi University of Technology"
+      year: "2015-2020"
+      degree: "Bachelor of Applied Science (BASc), Chemistry"
 
 #     - university: "Sir John A Macdonald CI"
 #       year: "2009-2012"
@@ -85,30 +85,30 @@ education:
 
 # experience
 experience:
-  enable: false
-#   title: "Experience"
-#   description: "Over 15+ years of experience working with companies from all over the world. I design & develop digital products to help businesses and improve people's lives."
-#   button:
-#     icon: "icon-linkedin-fill"
-#     btnText: "Linkedin"
-#     URL: "https://www.linkedin.com/company/radity/"
-#   button2:
-#     icon: "icon-profile-fill"
-#     btnText: "Download My Resume"
-#     URL: "#"
+  enable: true
+  title: "Experience"
+  description: "Over 3+ years of experience working with companies. I design & optimize and scale server and services to help businesses and improve people's achivments."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://linkedin.com/in/mohsenmottaghi"
+  # button2:
+  #   icon: "icon-profile-fill"
+  #   btnText: "Download My Resume"
+  #   URL: "#"
 
-#   items:
-#     - title: "Sr. Front-End Developer"
-#       company: "Radity"
-#       duration: "Feb 2011 - Sep 2019"
+  items:
+    - title: "DevOps Engineer"
+      company: "AloPeyk - On-demand Delivery"
+      duration: "Sep 2019 - Present"
 
-#     - title: "Sr. Front-End Developer"
-#       company: "Textic"
-#       duration: "Apr 2010 - Jan 2011"
+    - title: "Linux System Administrator"
+      company: "Farakav ( Varzesh3, Tamasha, Anten and ... )"
+      duration: "Jul 2019 – Sep 2019"
 
-#     - title: "Jr. Front-End Developer"
-#       company: "Cyberse"
-#       duration: "Jun 2009 - Mar 2010"
+    - title: "IT Expert"
+      company: "SHEZAN Accelerator and Innovation Center"
+      duration: "Jul 2017 – Dec 2017"
 
 # Client & Work
 client_and_work:
@@ -183,33 +183,33 @@ client_and_work:
 # testimonial
 testimonial:
   enable: false
-#   title: "Testimonials"
-#   items:
-#     - name: "Daniel Jordan"
-#       position: "Phonet, CEO"
-#       content: "Cold calling can be a great way to generate quality leads. You get to speak to the gatekeepers and stakeholders, and you get a great insight into their requirements and influences. But cold calling is an art-form. It can be daunting, it’s always a lot of work, and you always need to make a good impression."
-#       image:
-#         x: "img/testimonials/daniel-jordan.jpg"
-#         _2x: "img/testimonials/daniel-jordan@2x.jpg"
+  # title: "Testimonials"
+  # items:
+  #   - name: "Daniel Jordan"
+  #     position: "Phonet, CEO"
+  #     content: "Cold calling can be a great way to generate quality leads. You get to speak to the gatekeepers and stakeholders, and you get a great insight into their requirements and influences. But cold calling is an art-form. It can be daunting, it’s always a lot of work, and you always need to make a good impression."
+  #     image:
+  #       x: "img/testimonials/daniel-jordan.jpg"
+  #       _2x: "img/testimonials/daniel-jordan@2x.jpg"
 
-#     - name: "Jonathan Peters"
-#       position: "Textic, CEO"
-#       content: "Whether you or your loved one is encountering the natural decrease in mobility that occurs with the passing of time, or deals with an illness-related lack of physical agility, a stair lift can be the ideal way to put you in charge of your home again. Regardless of the shape or make of your living accommodation."
-#       image:
-#         x: "img/testimonials/jonathan-peters.jpg"
-#         _2x: "img/testimonials/jonathan-peters@2x.jpg"
+  #   - name: "Jonathan Peters"
+  #     position: "Textic, CEO"
+  #     content: "Whether you or your loved one is encountering the natural decrease in mobility that occurs with the passing of time, or deals with an illness-related lack of physical agility, a stair lift can be the ideal way to put you in charge of your home again. Regardless of the shape or make of your living accommodation."
+  #     image:
+  #       x: "img/testimonials/jonathan-peters.jpg"
+  #       _2x: "img/testimonials/jonathan-peters@2x.jpg"
 
-#     - name: "Antonio Willis"
-#       position: "Cyberse, CEO"
-#       content: "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
-#       image:
-#         x: "img/testimonials/antonio-willis.jpg"
-#         _2x: "img/testimonials/antonio-willis@2x.jpg"
+  #   - name: "Antonio Willis"
+  #     position: "Cyberse, CEO"
+  #     content: "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
+  #     image:
+  #       x: "img/testimonials/antonio-willis.jpg"
+  #       _2x: "img/testimonials/antonio-willis@2x.jpg"
 
 # contact
 contact:
   enable: false
-  # title: "Contact"
+  title: "Contact me"
   # form:
   #   action: "#"
   #   full_name: "Full Name"
@@ -217,7 +217,7 @@ contact:
   #   message: "Type Your Message Here"
   # phone:
   #   title: "Phone Number"
-  #   number: "+41 (44) 505 10 99"
+  #   number: "+1 (903) 231 7172"
   # email:
   #   title: "Email"
   #   email: '<a href="mailto:team@radity.com">team@radity.com</a>'
@@ -235,3 +235,4 @@ newsletter:
   # success_message: "Successfully subscribed"
   # error_message: "Error while subscribing."
   # note: "We'll never share your email with anyone else."
+

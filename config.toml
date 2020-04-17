@@ -30,30 +30,41 @@ theme = "raditian-hugo"
   URL = "#about"
   weight = 2
 
+ [[menu.header]]
+ name = "Blog"
+ URL = "https://medium.com/@mohsenmottaghi"
+ weight = 3
+
+
 #  [[menu.header]]
 #  name = "Portfolio"
 #  URL = "#portfolio"
 #  weight = 3
 
-  [[menu.header]]
-  name = "Contact"
-  URL = "#contact"
-  weight = 4
+#  [[menu.header]]
+#  name = "Contact"
+#  URL = "#contact"
+#  weight = 4
 
   [[menu.footer]]
   name = "About"
   URL = "#about"
   weight = 2
 
+  [[menu.footer]]
+  name = "Blog"
+  URL = "https://medium.com/@mohsenmottaghi"
+  weight = 3
+
 #  [[menu.footer]]
 #  name = "Portfolio"
 #  URL = "#portfolio"
 #  weight = 3
 
-  [[menu.footer]]
-  name = "Contact"
-  URL = "#contact"
-  weight = 4
+#  [[menu.footer]]
+#  name = "Contact"
+#  URL = "#contact"
+#  weight = 4
 
 
 [params]
