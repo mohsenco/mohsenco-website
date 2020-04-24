@@ -1,8 +1,8 @@
 # showcase
 showcase:
   enable: true
-  title: "Hello, I’m Mohsen."
-  subtitle: "DevOps and Cloud engineer"
+  title: "Hello, I’m Mohsen"
+  subtitle: "DevOps and Cloud Engineer"
   description: |
     <p class="lead">
     Currntly, I'm <a target='_blank' href='https://en.wikipedia.org/wiki/Unemployment'>Unemployed</a>, 
