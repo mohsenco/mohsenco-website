@@ -30,11 +30,15 @@ theme = "raditian-hugo"
   URL = "#about"
   weight = 2
 
- [[menu.header]]
- name = "Blog"
- URL = "https://medium.com/@mohsenmottaghi"
- weight = 3
+  [[menu.header]]
+  name = "Blog"
+  URL = "https://medium.com/@mohsenmottaghi"
+  weight = 3
 
+  [[menu.header]]
+  name = "Docs"
+  URL = "https://docs.mohsen.co"
+  weight = 4
 
 #  [[menu.header]]
 #  name = "Portfolio"
@@ -55,6 +59,11 @@ theme = "raditian-hugo"
   name = "Blog"
   URL = "https://medium.com/@mohsenmottaghi"
   weight = 3
+
+  [[menu.footer]]
+  name = "Docs"
+  URL = "https://docs.mohsen.co"
+  weight = 4
 
 #  [[menu.footer]]
 #  name = "Portfolio"

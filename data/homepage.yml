@@ -3,7 +3,13 @@ showcase:
   enable: true
   title: "Hello, I’m Mohsen."
   subtitle: "DevOps and Cloud engineer"
-  description: "Currntly, I work at <a target='_blank' href='https://alopeyk.com/'>Alopeyk</a>, To introduce myself, I would say that I am a chemistry student && I love computers, networks, and clouds. That's why I try it every day. "
+  description: |
+    <p class="lead">
+    Currntly, I'm <a target='_blank' href='https://en.wikipedia.org/wiki/Unemployment'>Unemployed</a>, 
+    No I'm kidding [ Ha Ha Ha ;) ] . To introduce myself, I would say I studied applied chemistry in 
+    <a target='_blank' href='https://mohsen.co'>K. N. Toosi University of Technology</a> 
+    but I'm in love with computers, networks, and clouds. That's why I try it every day.
+    </p>
   image:
     x: "img/showcase/showcase.png"
     _2x: "img/showcase/showcase@2x.png"
@@ -113,13 +119,13 @@ experience:
 # Client & Work
 client_and_work:
   enable: false
-#  title: "Clients & Works"
+  # title: "Clients & Works"
 
-#   clients:
-#     - logo:
-#         x: "img/clients/asgardia.png"
-#         _2x: "img/clients/asgardia@2x.png"
-#       alt: "Asgardia"
+  # clients:
+  #   - logo:
+  #       x: "img/clients/asgardia.png"
+  #       _2x: "img/clients/asgardia@2x.png"
+  #     alt: "Asgardia"
 
 #     - logo:
 #         x: "img/clients/earth-2.png"
@@ -208,25 +214,26 @@ testimonial:
 
 # contact
 contact:
-  enable: false
+  enable: true
   title: "Contact me"
   # form:
   #   action: "#"
   #   full_name: "Full Name"
   #   email: "Email Address"
   #   message: "Type Your Message Here"
-  # phone:
-  #   title: "Phone Number"
-  #   number: "+1 (903) 231 7172"
-  # email:
-  #   title: "Email"
-  #   email: '<a href="mailto:team@radity.com">team@radity.com</a>'
-  # address:
-  #   title: "Address"
-  #   address: "Radity GmbH<br />Max-Bill-Platz 5, 8050 Zürich"
-  # button:
-  #   icon: "icon-mail-fill"
-  #   btnText: "Send Message"
+  phone:
+    title: "Phone Number"
+    number: "+1 (903) 231 7172"
+  email:
+    title: "Email"
+    email: '<a href="mailto:mohsen@mohsen.co">mohsen@mohsen.co</a>'
+  address:
+    title: "Address"
+    address: "Briarcliff</br>Seattle, Washington</br>98199"
+    googlemap: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d21505.234462094937!2d-122.424475571096!3d47.64256816795739!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5490102c93e83355%3A0x102565466944d59a!2sSeattle%2C%20WA%2C%20USA!5e0!3m2!1sen!2ski!4v1587733709472!5m2!1sen!2ski'
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
 
 # newsletter
 newsletter:
